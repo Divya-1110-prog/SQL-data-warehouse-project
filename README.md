@@ -122,25 +122,3 @@ data-warehouse-project/
 ├── LICENSE                             # MIT License
 ├── .gitignore                          # Git ignored files
 └── requirements.txt                    # Project dependencies
-
-
-🛡️ License
-
-This project is licensed under the MIT License.
-You are free to use, modify, and share this project with proper attribution.
-
-🌟 About Me
-
-Hi! I'm Divya Sri Koheer, a student and aspiring Data Engineer / Data Analyst with a strong passion for working with data and building impactful analytics solutions.
-
-💡 My interests include:
-
-Data Warehousing & Architecture
-
-SQL Development & Optimization
-
-ETL Pipeline Design
-
-Data Modeling & Analytics
-
-This project represents my hands-on learning journey, where I apply theoretical knowledge to real-world data engineering and analytics scenarios.
